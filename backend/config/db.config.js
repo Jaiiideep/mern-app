@@ -1,0 +1,1 @@
+module.exports = "mongodb+srv://root:toor@cluster0.gkxjc.mongodb.net/back_end?retryWrites=true&w=majority"
